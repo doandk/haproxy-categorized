@@ -1,1 +1,3 @@
-# haproxy-categorized \n first, install colordiff via yum/apt
+# haproxy-categorized
+
+first, install colordiff via yum/apt-get.
