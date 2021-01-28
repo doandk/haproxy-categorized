@@ -8,4 +8,4 @@ You can spread your .cfg file to some folder instead of using only single haprox
 2. create conf.d folder on /etc/haproxy
 3. create config file on conf.d
    example : 00-defaults.cfg, 01-global.cfg, 02-web.cfg
-4. execute haconfig.sh to concate the conf file and reload the serve
+4. execute haconfig.sh to concate the conf file and reload the service
